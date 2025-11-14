@@ -113,3 +113,7 @@ Excel / CSV – Data cleaning and preprocessing
 
 ## 📸 Dashboard Preview
 <img width="1320" height="740" alt="Screenshot 2025-11-13 225639" src="https://github.com/user-attachments/assets/f004174b-f5e9-4fad-88c6-e374e2bd4d3d" />
+<img width="1320" height="740" alt="Screenshot 2025-11-13 225639" src="https://github.com/user-attachments/assets/2b3a508e-4821-460c-9aa1-041d89a0faa0" />
+<img width="1324" height="741" alt="Screenshot 2025-11-13 225621" src="https://github.com/user-attachments/assets/1c07a168-a9b0-45df-9606-7be63ece648e" />
+<img width="1322" height="742" alt="Screenshot 2025-11-13 225604" src="https://github.com/user-attachments/assets/6cf42bad-d265-4d8a-a0d9-b4cb1efd92ff" />
+
