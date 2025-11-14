@@ -110,10 +110,11 @@ DAX – Measure creation
 Excel / CSV – Data cleaning and preprocessing
 
 ---
-
 ## 📸 Dashboard Preview
-<img width="1320" height="740" alt="Screenshot 2025-11-13 225639" src="https://github.com/user-attachments/assets/f004174b-f5e9-4fad-88c6-e374e2bd4d3d" />
-<img width="1320" height="740" alt="Screenshot 2025-11-13 225639" src="https://github.com/user-attachments/assets/2b3a508e-4821-460c-9aa1-041d89a0faa0" />
-<img width="1324" height="741" alt="Screenshot 2025-11-13 225621" src="https://github.com/user-attachments/assets/1c07a168-a9b0-45df-9606-7be63ece648e" />
-<img width="1322" height="742" alt="Screenshot 2025-11-13 225604" src="https://github.com/user-attachments/assets/6cf42bad-d265-4d8a-a0d9-b4cb1efd92ff" />
+
+<img width="1320" height="740" alt="Screenshot 2025-11-13 225639" src="https://github.com/user-attachments/assets/19ea631f-8c1e-47ad-94d4-0a5aa272f551" />
+<img width="1324" height="741" alt="Screenshot 2025-11-13 225621" src="https://github.com/user-attachments/assets/f6a625f5-c6a5-4145-af5c-d8aaed178a3c" />
+<img width="1322" height="742" alt="Screenshot 2025-11-13 225604" src="https://github.com/user-attachments/assets/5c01ba82-df8a-465a-b89e-4ee719b6afd7" />
+<img width="1326" height="744" alt="Screenshot 2025-11-13 225530" src="https://github.com/user-attachments/assets/8e4c30a8-98dc-4fdf-a7d9-5c7f6104eba0" />
+
 
